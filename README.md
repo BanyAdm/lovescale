@@ -1,9 +1,11 @@
 # lovescale
 a Scaling Module made for LÖVE2D
 
-how to use scale.lua
+# how to use scale.lua:
 
 ```lua
+--example
+
 function love.load()
   
   Virtual_Width = 856 --the height your game works on
